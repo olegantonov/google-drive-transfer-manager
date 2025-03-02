@@ -1,0 +1,9 @@
+# Ignorar arquivos temporários do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Ignorar módulos do Node.js (caso utilize alguma ferramenta para deploy)
+node_modules/
+
+# Ignorar arquivos do Google Apps Script (caso esteja exportando)
+appsscript.json
